@@ -4,4 +4,6 @@ The simon game was created by Ralph H. Baer and Howard Morrison in 1978. The goa
 
 Tech used: jQuery, JavaScript
 
-Read more about it <a href="https://en.wikipedia.org/wiki/Simon_(game)" target="_blank">here</a>
+Take a look at it in <a href="https://codepen.io/su6a12/full/GJbzqj">CodePen</a>
+
+Read more about the original Simon Game <a href="https://en.wikipedia.org/wiki/Simon_(game)" target="_blank">here</a>
