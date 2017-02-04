@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(function() {
     var attempt = [],
         simon = [],
         level = 1,
@@ -91,4 +91,4 @@ $(document).ready(function() {
         simon = [];
         index = 0;
     }
-}); // end of document.ready
+});
